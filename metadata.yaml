@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/582
     wikipedia: http://en.wikipedia.org/wiki/John_Masefield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32532#King-Cole
 gutenberg_issued: '2010-05-26'
 gutenberg_type: Text
 identifiers:
