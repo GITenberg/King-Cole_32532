@@ -1,0 +1,33 @@
+_repo: King-Cole_32532
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Masefield, Judith
+    birthdate: 1904
+    gutenberg_agent_id: '35902'
+    url: http://www.gutenberg.org/2009/agents/35902
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Masefield, John
+    birthdate: 1878
+    deathdate: 1967
+    gutenberg_agent_id: '582'
+    url: http://www.gutenberg.org/2009/agents/582
+    wikipedia: http://en.wikipedia.org/wiki/John_Masefield
+description: ''
+gutenberg_issued: '2010-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32532'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: King Cole
+url: http://www.gutenberg.org/ebooks/32532
